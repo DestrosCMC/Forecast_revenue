@@ -9,3 +9,5 @@ The random forest regressor predicted 2021 revenue of $5202.\
 The CNN model predicted revenue of $7518.\
 The analysts predict around $8320.\
 *\*all figures are in millions*
+
+![CNN](https://i.imgur.com/3cior8a.png)
