@@ -1,4 +1,4 @@
-# Activision-Blizzard Analysis, Forecast, and Credit Risk
+# Activision Blizzard Analysis, Forecast, and Credit Risk
 
 # **Analysis**
 
