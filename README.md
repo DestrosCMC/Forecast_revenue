@@ -1,4 +1,5 @@
 # Activision Blizzard Analysis, Forecast, and Credit Risk
+<img src="https://i.imgur.com/tz8dp7S.jpg" width="800" height="400" />
 
 # **Analysis**
 
