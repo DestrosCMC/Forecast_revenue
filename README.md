@@ -1,7 +1,7 @@
 # Forecast_revenue
 
 ## Model Selection
-I wanted to use a Convolutional Neural Network to predict 5 years out of sample and compare the results to a random forest regreesor and analyst estimates. 
+I wanted to use a Convolutional Neural Network to predict 5 years out of sample and compare the results to a random forest regressor and analyst estimates. 
 The random forest model would predict one year into the future, using a one year lag in the data's explanatory variables. 
 
 ## Results
